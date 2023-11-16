@@ -1,4 +1,5 @@
 # MinXuan
+<img src="https://img.shields.io/badge/You-Tube-4FC08D.svg?logo=youtube&style=plastic">
 
 # 👤自我介紹
 * 一位來自台灣來的學生
