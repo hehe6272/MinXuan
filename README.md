@@ -1,5 +1,4 @@
 # MinXuan
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 # 👤自我介紹
 * 一位來自台灣來的學生
